@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=RANBIR%20KHURANA&fontSize=70&animation=twinkling&fontAlignY=38&desc=Digital%20Architect%20%E2%80%A2%20Code%20Artisan%20%E2%80%A2%20Innovation%20Engineer&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Ranbir%20Khurana&reversal=false&textBg=false&desc=Digital%20Architect%20%E2%80%A2%20Code%20Artisan%20%E2%80%A2%20Innovation%20Engineer&descAlignY=65&fontSize=72"/>
   <p align="center">
     -DevRanbir-
   </p>
